@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luis, an IT Professional</a>☺</h1>
+<h1>Hi, I'm Luis, Aspiring IT professional building hands-on experience through labs and real-world projects. Focused on help desk, system administration, and cloud fundamentals while continuously learning and improving.</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
